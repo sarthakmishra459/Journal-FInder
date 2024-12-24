@@ -21,7 +21,7 @@ import ast
 
 # Hugging Face API details
 API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-3.2-11B-Vision-Instruct"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Your API key here"}
 
 
 # Load environment variables
